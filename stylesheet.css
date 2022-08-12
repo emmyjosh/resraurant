@@ -1,0 +1,136 @@
+body{
+    margin: 0;
+    padding: 0;
+    line-height: 2rem;
+    text-align: center;
+    
+  
+    
+ }
+ .background{
+    background-color: #C1EFFF;
+    
+ }
+ .navbar{
+    padding: 5px;
+    padding-right: 90px;
+   
+
+
+ }
+ .nav-item{
+font-weight:bold ;
+font-style: normal;
+
+
+
+ }
+ .logo{
+    border-radius: 50%;
+    border:2px solid #81CACF;
+    box-shadow: 10px 10px 5px #81CACF;
+    margin:30px 10px 10px 70px ;    
+ }
+.fa-brands{
+    padding: 10px;
+}
+.dot { height: 500px;
+    width: 500px;
+    background-image: url(/img/bg\ 1.png);
+    background-size: cover;
+    border-radius: 50%;
+    border:2px solid #81CACF;
+    box-shadow: 10px 10px 5px #81CACF;
+    display: inline-block;
+    box-shadow: 10px #3FA796;}
+   
+
+  h1{
+    font-family: bebas neue;
+    font-size:100px;
+    font-weight: 900;
+    font-family: Baskerville;
+    text-align: center;
+    padding: 40px;
+    padding-bottom: 10px;
+    color: gray;
+
+  }
+  .body-text{
+    font-family: Baskerville;
+    font-weight:600;
+    font-size:large;
+    padding: 50px;
+    padding-bottom: 20px;
+    color: gray;
+  }
+  
+#footer{
+    text-align: center;
+    padding:1% 0% ;
+    margin-bottom: 0;
+   
+}
+.footer-message{
+font-family: "Poppins", sans-serif;
+font-size:3.5rem;
+font-weight: 900;
+line-height: 1.5;
+color: #fff;
+
+
+
+}
+.fa-brands{
+    padding: 5px;
+    text-align: center;
+}
+.i-link{
+    text-decoration: none;
+    color: rgb(73, 63, 63);
+}
+#pacatech{
+    text-decoration: none;
+    color: gray;
+}
+
+.card{
+  margin: 2rem;
+  border-radius: 20px 20px;
+  
+}
+.container{
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  width: 500px;
+ margin-top: 50px;
+ margin-bottom: 70px;
+  box-shadow: 10px 10px 5px #81CACF;
+ }
+.input{
+  
+  width: 400px;
+  padding: 12px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer
+}
+.input[type=submit]:hover {
+  background-color: #45a049;}
+#contact-us #orders{
+    text-align: center;
+  }
+ #orders{
+  margin-bottom: 50px;
+ }
+a{
+  text-decoration: none;
+}
+.card:hover{
+cursor: pointer;
+background-color:rgb(175, 228, 210);
+animation: forwards;
+}
+
